@@ -1,0 +1,1 @@
+使用kafka做缓存的配置原因是害怕直接往influxdb发送信息怕丢失，使用kafka做缓存，没钱买influx的集群服务。
