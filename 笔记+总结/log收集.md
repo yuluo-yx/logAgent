@@ -549,4 +549,4 @@ epoch      timestamp cluster       status node.total node.data shards pri relo i
 
 ## 项目架构图
 
-![image-20230116120604714](E:\Go\project\日志收集项目\笔记+总结\log收集.assets\image-20230116120604714.png)
+![image-20230116120604714](../../architecture.png)
